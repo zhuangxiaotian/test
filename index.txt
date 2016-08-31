@@ -1,4 +1,5 @@
-in a new branch
+it is a new branch
 it is a day.
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick and simple.
 
